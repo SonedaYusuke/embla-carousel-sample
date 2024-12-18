@@ -20,3 +20,9 @@ Start the development server on `http://localhost:3000`:
 # npm
 npm run dev
 ```
+
+ミニマムver.
+http://localhost:3000/embla-carousel-simple
+
+リッチver.
+http://localhost:3001/embla-carousel-rich
